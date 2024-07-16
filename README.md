@@ -1,7 +1,9 @@
 # Multiport-PiKVM-1U-Rackmount
 
  This is the projexct page for a multiport PiKVM in a 1U 19" rack mount format.
- It consist out of a Raspberry Pi with PiKVM, a 4 Port KVM switch and lots of 3D-printed parts
+ It consist out of a Raspberry Pi with PiKVM, a 4 Port KVM switch and lots of 3D-printed parts.
+
+ It allows the user to connect multiple sources to the PiKVM and switch between them via the PiKVM Web GUI or the physical buttons on the KVM switch.
 
  ![multiport_PiKVM_rackmount](./img/pikvm_rack.JPEG)
 
