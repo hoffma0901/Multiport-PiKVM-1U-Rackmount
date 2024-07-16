@@ -50,7 +50,7 @@ In this section you will find the general parts list and tools needed in order t
 - <details>
     <summary> XK-HK4401 4 Port KVM Switch (Aliexpress)</summary>
 
-    ![4_port_kvm_switch](img\xh-hk4401-kvm-switch.jpg)
+    ![4_port_kvm_switch](./img/xh-hk4401-kvm-switch.jpg)
 
   </details>
 
@@ -64,41 +64,41 @@ In this section you will find the general parts list and tools needed in order t
 - <details>
     <summary>60W AC to DC 12V 3A and 5V 4A</summary>
 
-    ![60w_psu_ac_dc_12v_5v](img\psu_d60_12v_5v.jpg)
+    ![60w_psu_ac_dc_12v_5v](./img/psu_d60_12v_5v.jpg)
     </details>
 - <details>
     <summary>C13 Socket Inlet Module with switch (AC 250V 10A)</summary>
 
-    ![c13_inlet](img\c_13_plug.jpg)
+    ![c13_inlet](./img/c_13_plug.jpg)
     </details>
 - <details>
     <summary>Digitus Professional DN-19 Tray-1-SW 19" Rack tray - 1U</summary>
 
     Dimensions: 45 x 483 x 250 mm (H x W x D)
 
-    ![digitus_rack_tray](img\digitus_rack_tray.jpg)
+    ![digitus_rack_tray](./img/digitus_rack_tray.jpg)
     </details>
 - <details>
     <summary>Daoki GPIO Extension Board Raspberry Pi</summary>
 
-    ![gpio_extension](img\gpio_extension.jpg)
+    ![gpio_extension](./img/gpio_extension.jpg)
     </details>
 - <details>
     <summary> 2x DollaTek Disassembled Double GPIO Adapter for Raspberry Pi</summary>
 
-    ![gpio_adapter](img\gpio_adapter.jpg)
+    ![gpio_adapter](./img/gpio_adapter.jpg)
     </details>
 -  <details>
     <summary>M2 M2.5 M3 Micro Screw Assortment, Flat Round Phillips Screws 450 Pieces</summary>
 
-    ![screw_assortment](img\screw_assortment.jpg)
+    ![screw_assortment](./img/screw_assortment.jpg)
     </details>
 -  <details>
     <summary>Cable Lugs Set for 0.5-6 mm² 400 Pieces</summary>
 
     Only the sizes "Ring M4" are needed (the open ones)
 
-    ![cable_lugs](img\cable_lugs.jpg)
+    ![cable_lugs](./img/cable_lugs.jpg)
     </details>
 - 4x USB A to USB B cable ca. 40cm
 - 5x HDMI Cable
@@ -108,12 +108,12 @@ In this section you will find the general parts list and tools needed in order t
 - <details>
     <summary>USB C to USB C Cable with one 90 degree angled connector < 1m</summary>
 
-    ![usb_c_angled](img\usb_c_angled.jpg)
+    ![usb_c_angled](./img/usb_c_angled.jpg)
     </details>
 - <details>
     <summary>HDMI Cable with one 90 degree angled (right) connector</summary>
 
-    ![hdmi_angled](img\hdmi_angled.jpg)
+    ![hdmi_angled](./img/hdmi_angled.jpg)
     </details>
 - 4x Wago 5-Pin Terminal
 - 2x USB A Plug (male) for soldering
