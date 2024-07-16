@@ -5,6 +5,8 @@
 
  ![multiport_PiKVM_rackmount](./img/pikvm_rack.JPEG)
 
+ ![multiport_PiKVM_top_down](./img/kvm_top_down.jpg)
+
 So far everything works fine except the atx control for multiple devices. I‘m still trying to figure out the best way to add at least 3 ports for atx control.
 
 My overall goal was to keep it as flexible as possible, therefore the front is split into 3 parts:
