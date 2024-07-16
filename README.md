@@ -3,7 +3,7 @@
  This is the projexct page for a multiport PiKVM in a 1U 19" rack mount format.
  It consist out of a Raspberry Pi with PiKVM, a 4 Port KVM switch and lots of 3D-printed parts
 
- ![multiport_PiKVM_rackmount](.\img\pikvm_rack.JPEG)
+ ![multiport_PiKVM_rackmount](./img/pikvm_rack.JPEG)
 
 So far everything works fine except the atx control for multiple devices. I‘m still trying to figure out the best way to add at least 3 ports for atx control.
 
